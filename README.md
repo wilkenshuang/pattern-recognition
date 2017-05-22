@@ -1,1 +1,1 @@
-# pattern-recognition
+# Kaggle competition--Digit recognizer
