@@ -1,1 +1,3 @@
-# Kaggle competition--Digit recognizer
+# 定位并识别手写黑白数字或红色数字
+
+对图片中的手写数字进行定位截取并识别
